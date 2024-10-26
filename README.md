@@ -10,9 +10,8 @@ This is a specialized application for posting real estate news, as well as allow
 git clone git@github.com:MrLam09/estate-trading-app.git
 ```
 * Install [docker](https://www.docker.com/)
-* Open CMD contain the cloned file and run this command:
+* In the cloned file, open CMD and run this command:
 ```
-cd estate-trading-app
 docker compose up
 ```
 * Open the localhost and enjoy this app.
