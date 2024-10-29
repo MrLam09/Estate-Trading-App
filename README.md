@@ -10,9 +10,8 @@ This is a specialized application for posting real estate news, as well as allow
 git clone git@github.com:MrLam09/estate-trading-app.git
 ```
 * Install [docker](https://www.docker.com/)
-* Open CMD contain the cloned file and run this command:
+* In the cloned file, open CMD and run this command:
 ```
-cd estate-trading-app
 docker compose up
 ```
 * Open the localhost and enjoy this app.
@@ -34,5 +33,6 @@ VITE_MESSAGING_SENDER_ID = "1013423381840"
 VITE_APP_ID = "1:1013423381840:web:ce23db7acc67efbd822055"
 ```
 
+*Note: you just save all ENV variables in `.env` file inside estate-trading-app.
 # Reference:
 * [Web crawl data](https://bds.com.vn)
