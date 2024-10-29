@@ -27,8 +27,8 @@ const ManageEst = () => {
         navigate(`dashboard/edit-ets-inf/${id}`);
     };
     return (
-        <section className="py-1 bg-blueGray-50">
-            <div className="w-full px-4 mx-auto mt-24 mb-12 xl:w-8/12 xl:mb-0">
+        <section>
+            <div>
                 <div className="relative flex flex-col w-full min-w-0 mb-6 break-words bg-white rounded shadow-lg ">
                     <div className="px-4 py-3 mb-0 border-0 rounded-t">
                         <div className="flex flex-wrap items-center">

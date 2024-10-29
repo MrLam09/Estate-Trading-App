@@ -32,6 +32,9 @@ const EsInf = ({estate}) => {
                     <p className="mb-5 text-sm font-medium"> {estate.location} 
                             <span className="ml-20 text-sm"> {estate.date}</span>
                     </p>
+                    <p className="mb-5 text-sm font-medium">
+                        {estate.phone_number}
+                    </p>
                 
                 </div>
             </div>

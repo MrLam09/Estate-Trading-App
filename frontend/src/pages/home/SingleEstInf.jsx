@@ -32,8 +32,10 @@ const SingleEstInf = () => {
                         <span className='ml-10'><strong>Diện tích: </strong> {estate.area}</span>
                         </p>
                         <p className="mb-4 text-gray-700">
-                            <strong>Ngày đăng: </strong> {new Date(estate.date).toLocaleDateString()}
+                            <strong>Ngày đăng: </strong> {estate.date}
+                            <span className='ml-20'><strong>SDT: </strong> {estate.phone_number}</span>
                         </p>
+                        
                         <p className="mb-4 text-gray-700">
                             <strong>Số phòng ngủ: </strong> {estate.num_bedroom}
                             <span className='ml-10'><strong>Số toilet: </strong>{estate.num_wc}</span>
@@ -43,7 +45,6 @@ const SingleEstInf = () => {
                         <p className="text-gray-700"><strong>Description:</strong> {estate.illustrate}</p>
                     </div>
 
-                    
                 </div>
             </div>
     )

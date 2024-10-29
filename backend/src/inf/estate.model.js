@@ -33,6 +33,7 @@ const estateSchema = new mongoose.Schema({
     option: {
       type: String,
     },
+    phone_number: String,
     num_bedroom: Number,
     num_wc: Number,
     num_floor: Number,

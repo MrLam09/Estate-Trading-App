@@ -83,7 +83,6 @@ const List1 = () => {
                 ))
             }
             
-            
             </Swiper>
             
         </div>
