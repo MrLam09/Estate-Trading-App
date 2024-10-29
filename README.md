@@ -33,5 +33,6 @@ VITE_MESSAGING_SENDER_ID = "1013423381840"
 VITE_APP_ID = "1:1013423381840:web:ce23db7acc67efbd822055"
 ```
 
+*Note: you just save all ENV variables in `.env` file inside estate-trading-app.
 # Reference:
 * [Web crawl data](https://bds.com.vn)
