@@ -19,6 +19,5 @@ docker compose up
 # ENV variables
 Please contact me via my email: nguyenthanhlam0202@gmail.com to get an `.env` file.
 
-*Note: you just save all ENV variables in `.env` file inside estate-trading-app.
 # Reference:
 * [Web crawl data](https://bds.com.vn)
