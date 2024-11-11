@@ -17,22 +17,7 @@ docker compose up
 * Open the localhost and enjoy this app.
 
 # ENV variables
-* For backend:
-```
-DB_URL = "mongodb+srv://bangphong1111:XCpe1XmfpIegB6nV@cluster0.udxu6.mongodb.net/estate-inf?retryWrites=true&w=majority&appName=Cluster0"
-JWT_SECRET_KEY = "ab2352ea17999d7f267bd7e551ee1464ac3bc730805cee048adb182eae49b806c8ac07d9c6e77238220dce8798b62ae78ad2ba8ae04cd696d87fd4594879f853"
-```
-
-* For frontend:
-```
-VITE_API_KEY = "AIzaSyBI8KFF6vEzejV0863CY6DCkb--gik7u0I"
-VITE_AUTH_DOMAIN = "estate-controll-users-app.firebaseapp.com"
-VITE_PROJECT_ID = "estate-controll-users-app"
-VITE_STORAGE_BUCKET = "estate-controll-users-app.appspot.com"
-VITE_MESSAGING_SENDER_ID = "1013423381840"
-VITE_APP_ID = "1:1013423381840:web:ce23db7acc67efbd822055"
-```
-
+Please contact me via my email: nguyenthanhlam0202@gmail.com to get an `.env` file.
 *Note: you just save all ENV variables in `.env` file inside estate-trading-app.
 # Reference:
 * [Web crawl data](https://bds.com.vn)
